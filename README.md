@@ -1,18 +1,44 @@
-# BUSINESS_360
+<h1> BUSINESS INSIGHTS : 360 </h1>
 
-**Business 360 - Brick & mortar and e-commerce [Power BI | SQL | Excel | Dax Studio] Link Oct 2023**
+As an enthusiastic Data Analyst, I have crafted comprehensive reports using **Power BI** that provide invaluable insights for various departments, enabling them to make well-informed, data-driven decisions. These reports encompass the domains of Finance, Sales, Supply Chain, and Marketing, and offer an Executive view, meticulously tracking Key Performance Indicators (KPIs) across all organizational sectors.
 
-**Live Dashboards -** _[Bussiness 360 Brick & mortar and e-commerce](https://app.powerbi.com/view?r=eyJrIjoiNDE3ZDI5ZTItNWFhZi00YTYxLWIzMTUtOTdiOGQ1NzMzMDliIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_ 
+Click this link to engage with the live Power BI project:  **Live Dashboards -** _[Bussiness 360 Brick & mortar and e-commerce](https://app.powerbi.com/view?r=eyJrIjoiNDE3ZDI5ZTItNWFhZi00YTYxLWIzMTUtOTdiOGQ1NzMzMDliIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_ 
 
-🌟 PROBLEM 🌟
-Atliq Hardware is a leading manufacturer of computer hardware in India and other nations, but it struggles to make prompt and wise choices based on data. The management intends to conducts a SQL challenge to identify applicants with both technical and soft skills.
+📈**Financial View:**
+Delve deep into the Profit and Loss statements, analyze the trends in Net Sales Performance, and conduct an examination of top-performing Products and Customers using various criteria.
 
-🌟 TOOLS & APPROACH 🌟
-MySQL, PowerBI, PowerPoint
-· MySQL - Concepts like Joins, CTEs, Subqueries, Window functions, String functions, Numeric functions, Date functions, etc.
-· PowerBI - Dax and visuals like Sunburst Chart, Bar Chart, Matrix, Line Chart, Maps, Donut Chart, etc.
-· PowerPoint- to present the Insights.
+💼**Sales View:**
+Immerse yourself in the performance of both Customers and Products. Dissect performance metrics, including Net Sales and Gross Margin percentages, and explore unit economics involving the Cost of Goods Sold (COGS) and deductions.
 
-🌟 FINDINGS & SOLUTIONS 🌟
-· Findings - Important metrics such as Gross Profit, Contribution %, Overall Amount Sold, Average Gross Sales, Average Manufacturing Cost, etc.
-· Solutions - Increasing production rate by enticing customers with memberships, and other special offers.
+📣**Marketing View:**
+Uncover insights into Product Performance, scrutinize Market, Regional, and Customer Performances. Evaluate the performance of Gross Margin percentages (GM%) and Net Profit percentages (NP%) across different segments. Additionally, delve into unit economics, encompassing COGS, Operational expenses, and Net Profit.
+
+🚚**Supply Chain View:**
+Investigate the accuracy of forecasts, Net Errors, and Absolute Errors, revealing crucial metrics related to Customers based on Forecast Accuracy (FA), Net Error (NE), and Absolute Error (ABS Error). Keep track of trends in Accuracy and Net Error, and explore key metrics related to Products.
+
+🤵**Executive view:**
+Integrated view of key insights for executives. Gain strategic insights into market share trends, identify the top 5 customers and products, and analyze revenue trends.
+
+The route 🚀:  
+➡Scenario Planning  
+➡Data Compilation  
+➡Fine-tuning  
+➡Designing Data Architecture  
+➡Sketching Dashboards  
+➡Incorporating Stakeholder Feedback  
+
+This journey has equipped me with a treasure trove of skills.  
+💡 SQL  
+💡 PowerBI Desktop  
+💡 Excel  
+💡 DAX language  
+💡 DAX Studio  
+💡 Project charter files
+
+This project not only showcases my Power BI proficiency but also my deep-rooted understanding of business dynamics.
+
+YOUR FEEDBACK MATTERS  
+**INVITING YOU TO EXPLORE MY DASHBOARD AND SHARE YOUR THOUGHTS**
+
+
+
